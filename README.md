@@ -1,6 +1,8 @@
-![Alt Text](https://trello-attachments.s3.amazonaws.com/5adea36859dcd255c9056b62/60a109cd359e398e2c61ab73/7e4dbf7eaff06882291921cfd5a4c64c/Peek_2021-05-16_09-01.gif)
-
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+
+<p align="center">
+<img src="https://trello-attachments.s3.amazonaws.com/5adea36859dcd255c9056b62/60a109cd359e398e2c61ab73/7e4dbf7eaff06882291921cfd5a4c64c/Peek_2021-05-16_09-01.gif" />
+</p>
 
 ## Projeto
 
